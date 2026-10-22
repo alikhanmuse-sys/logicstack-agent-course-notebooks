@@ -27,6 +27,7 @@ Practice notebooks for the AI Agent Engineering course on logicstack.org. Open a
 - [2.4 Agent Executors, Errors & Retries](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/2.4-agent-executors-errors-retries.ipynb)
 - [2.5 Lab: Research Assistant Agent](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/2.5-lab-research-assistant-agent.ipynb)
 - [2.6 Mini-Project: Personal Task Agent](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/2.6-mini-project-personal-task-agent.ipynb)
+- [2.7 MCP: Sharing Tools with the Model Context Protocol](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/2.7-mcp-model-context-protocol.ipynb)
 
 ## Module 3 — Retrieval-Augmented Generation
 
@@ -49,7 +50,7 @@ Practice notebooks for the AI Agent Engineering course on logicstack.org. Open a
 
 - [5.1 Persistence, Checkpointing, Time Travel](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/5.1-persistence-checkpointing-time-travel.ipynb)
 - [5.2 Human-in-the-Loop Approvals](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/5.2-human-in-the-loop-approvals.ipynb)
-- [5.3 Subgraphs, Supervisor Pattern, Handoffs](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/5.3-subgraphs-supervisor-handoffs.ipynb)
+- [5.3 Subgraphs, Supervisor Pattern, Handoffs](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/5.3-subgraphs-supervisor-pattern-handoffs.ipynb)
 - [5.4 Parallel Execution & Map-Reduce](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/5.4-parallel-execution-map-reduce.ipynb)
 - [5.5 Project: Multi-Agent Research Team](https://colab.research.google.com/github/alikhanmuse-sys/logicstack-agent-course-notebooks/blob/main/notebooks/5.5-project-multi-agent-research-team.ipynb)
 
